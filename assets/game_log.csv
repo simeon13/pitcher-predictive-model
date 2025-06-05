@@ -100,6 +100,7 @@ Luis Severino,R,NYM,2025-04-13,3,103,24,6
 Luis Severino,R,SD,2025-04-08,0,96,29,3
 Luis Severino,R,CHC,2025-04-02,3,107,28,6
 Luis Severino,R,SEA,2025-03-28,4,99,25,6
+Jose Berrios,R,PHI,2025-06-04,2,89,23,5
 Jose Berrios,R,ATH,2025-05-29,2,90,21,9
 Jose Berrios,R,TB,2025-05-24,1,95,22,3
 Jose Berrios,R,DET,2025-05-18,1,83,27,4
@@ -148,6 +149,7 @@ Nathan Eovaldi,R,SEA,2025-04-13,0,89,22,3
 Nathan Eovaldi,R,CHC,2025-04-07,2,87,22,4
 Nathan Eovaldi,R,CIN,2025-04-01,0,99,30,8
 Nathan Eovaldi,R,BOS,2025-03-27,0,87,21,9
+Jose Soriano,R,BOS,2025-06-04,3,99,22,3
 Jose Soriano,R,CLE,2025-05-30,4,96,23,2
 Jose Soriano,R,MIA,2025-05-25,3,97,23,1
 Jose Soriano,R,ATH,2025-05-20,4,100,28,4
@@ -172,6 +174,7 @@ Tarik Skubal,L,MIL,2025-04-14,0,91,25,9
 Tarik Skubal,L,NYY,2025-04-08,0,87,22,6
 Tarik Skubal,L,SEA,2025-04-02,3,93,25,8
 Tarik Skubal,L,LAD,2025-03-27,1,80,22,2
+Mackenzie Gore,L,CHC,2025-06-04,1,94,26,7
 Mackenzie Gore,L,SEA,2025-05-30,0,95,22,8
 Mackenzie Gore,L,SF,2025-05-23,3,91,21,9
 Mackenzie Gore,L,BAL,2025-05-16,2,102,23,9
@@ -220,6 +223,7 @@ Spencer Schwellenbach,R,TOR,2025-04-15,2,86,23,3
 Spencer Schwellenbach,R,PHI,2025-04-10,2,81,25,5
 Spencer Schwellenbach,R,MIA,2025-04-04,0,99,26,10
 Spencer Schwellenbach,R,SD,2025-03-29,1,90,20,4
+Chris Sale,L,ARI,2025-06-04,4,103,25,10
 Chris Sale,L,PHI,2025-05-29,3,102,24,8
 Chris Sale,L,SD,2025-05-23,1,95,25,6
 Chris Sale,L,BOS,2025-05-16,2,99,25,8
@@ -379,6 +383,7 @@ Matthew Liberatore,L,NYM,2025-04-19,1,100,27,6
 Matthew Liberatore,L,PHI,2025-04-13,1,88,22,7
 Matthew Liberatore,L,PIT,2025-04-07,0,89,27,7
 Matthew Liberatore,L,LAA,2025-04-01,0,77,22,4
+Merrill Kelly,R,ATL,2025-06-04,1,98,23,8
 Merrill Kelly,R,WSH,2025-05-31,2,95,24,6
 Merrill Kelly,R,STL,2025-05-24,1,100,25,6
 Merrill Kelly,R,COL,2025-05-18,3,109,24,11
@@ -558,6 +563,7 @@ Luis Castillo,R,CIN,2025-04-15,4,95,24,3
 Luis Castillo,R,HOU,2025-04-09,2,102,21,6
 Luis Castillo,R,DET,2025-04-02,2,92,28,5
 Luis Castillo,R,ATH,2025-03-29,2,83,21,4
+Nick Pivetta,R,SF,2025-06-05,1,82,25,5
 Nick Pivetta,R,PIT,2025-05-31,0,81,23,8
 Nick Pivetta,R,ATL,2025-05-23,3,102,25,7
 Nick Pivetta,R,SEA,2025-05-18,1,87,21,7
@@ -617,6 +623,7 @@ Andre Pallante,R,NYM,2025-04-17,0,95,23,2
 Andre Pallante,R,PHI,2025-04-12,2,93,25,4
 Andre Pallante,R,BOS,2025-04-06,3,92,20,6
 Andre Pallante,R,MIN,2025-03-30,2,78,21,3
+Kyle Freeland,L,MIA,2025-06-04,0,90,23,4
 Kyle Freeland,L,NYM,2025-05-30,0,90,24,4
 Kyle Freeland,L,NYY,2025-05-24,3,85,25,3
 Kyle Freeland,L,PHI,2025-05-20,2,94,24,6
@@ -629,6 +636,7 @@ Kyle Freeland,L,SD,2025-04-13,2,84,24,2
 Kyle Freeland,L,MIL,2025-04-09,0,100,27,5
 Kyle Freeland,L,PHI,2025-04-02,0,90,29,3
 Kyle Freeland,L,TB,2025-03-28,0,67,20,7
+Matthew Boyd,L,WSH,2025-06-04,1,95,26,6
 Matthew Boyd,L,COL,2025-05-29,0,95,21,8
 Matthew Boyd,L,CIN,2025-05-23,2,93,22,3
 Matthew Boyd,L,CHW,2025-05-17,0,92,22,8
@@ -652,6 +660,7 @@ Tyler Anderson,L,SF,2025-04-19,2,96,23,6
 Tyler Anderson,L,HOU,2025-04-12,4,95,22,6
 Tyler Anderson,L,CLE,2025-04-06,4,81,21,5
 Tyler Anderson,L,STL,2025-03-31,2,91,22,4
+Jeffrey Springs,L,MIN,2025-06-05,2,106,27,7
 Jeffrey Springs,L,TOR,2025-05-30,6,72,18,2
 Jeffrey Springs,L,PHI,2025-05-25,2,105,25,6
 Jeffrey Springs,L,SF,2025-05-18,0,84,22,5
@@ -712,6 +721,7 @@ Clay Holmes,R,MIN,2025-04-14,2,90,20,8
 Clay Holmes,R,MIA,2025-04-08,3,87,23,10
 Clay Holmes,R,MIA,2025-04-02,2,85,23,6
 Clay Holmes,R,HOU,2025-03-27,4,89,23,4
+Shane Baz,R,TEX,2025-06-04,1,85,22,5
 Shane Baz,R,HOU,2025-05-30,0,86,24,3
 Shane Baz,R,TOR,2025-05-24,3,82,23,4
 Shane Baz,R,MIA,2025-05-18,3,96,28,2
@@ -828,6 +838,7 @@ Jack Flaherty,R,MIL,2025-04-15,2,98,21,4
 Jack Flaherty,R,NYY,2025-04-09,3,92,22,9
 Jack Flaherty,R,CHW,2025-04-04,2,95,22,7
 Jack Flaherty,R,LAD,2025-03-29,2,83,22,5
+Luis Ortiz,R,NYY,2025-06-04,3,92,21,7
 Luis Ortiz,R,LAA,2025-05-30,2,97,25,5
 Luis Ortiz,R,DET,2025-05-24,5,89,22,3
 Luis Ortiz,R,CIN,2025-05-18,2,100,23,7
@@ -1108,6 +1119,7 @@ German Marquez,R,LAD,2025-04-17,1,37,10,1
 German Marquez,R,SD,2025-04-12,1,72,22,3
 German Marquez,R,ATH,2025-04-06,6,89,23,3
 German Marquez,R,PHI,2025-03-31,0,83,22,4
+Griffin Canning,R,LAD,2025-06-05,1,99,22,7
 Griffin Canning,R,CHW,2025-05-28,4,80,19,3
 Griffin Canning,R,LAD,2025-05-23,4,54,12,1
 Griffin Canning,R,NYY,2025-05-17,1,92,24,4
@@ -1195,6 +1207,7 @@ Patrick Corbin,L,ATH,2025-04-29,1,93,21,5
 Patrick Corbin,L,ATH,2025-04-23,2,85,24,4
 Patrick Corbin,L,LAA,2025-04-17,1,85,20,6
 Patrick Corbin,L,CHC,2025-04-08,2,74,19,0
+Cade Povich,L,SEA,2025-06-05,1,86,20,5
 Cade Povich,L,STL,2025-05-28,3,96,24,9
 Cade Povich,L,BOS,2025-05-23,3,98,23,6
 Cade Povich,L,WSH,2025-05-16,2,99,21,9
@@ -1205,6 +1218,7 @@ Cade Povich,L,CIN,2025-04-18,5,84,20,4
 Cade Povich,L,TOR,2025-04-13,1,76,21,2
 Cade Povich,L,KC,2025-04-06,0,88,28,4
 Cade Povich,L,BOS,2025-03-31,2,94,20,8
+Quinn Priester,R,CIN,2025-06-04,3,88,19,4
 Quinn Priester,R,PHI,2025-05-30,0,71,22,0
 Quinn Priester,R,PIT,2025-05-24,1,84,24,7
 Quinn Priester,R,BAL,2025-05-19,1,66,21,2
@@ -1236,6 +1250,7 @@ Aaron Nola,R,SF,2025-04-16,4,99,28,8
 Aaron Nola,R,STL,2025-04-12,4,93,24,7
 Aaron Nola,R,LAD,2025-04-05,1,97,25,2
 Aaron Nola,R,WSH,2025-03-30,0,95,23,8
+Cal Quantrill,R,COL,2025-06-04,1,86,20,2
 Cal Quantrill,R,SF,2025-05-30,1,95,24,7
 Cal Quantrill,R,LAA,2025-05-25,0,46,12,2
 Cal Quantrill,R,TB,2025-05-18,2,85,19,6
@@ -1299,6 +1314,7 @@ Logan Allen,L,PIT,2025-04-20,1,95,23,5
 Logan Allen,L,BAL,2025-04-15,2,95,22,6
 Logan Allen,L,CHW,2025-04-09,2,83,21,4
 Logan Allen,L,SD,2025-04-02,5,89,24,1
+Andrew Abbott,L,MIL,2025-06-04,1,100,26,6
 Andrew Abbott,L,CHC,2025-05-30,1,93,23,8
 Andrew Abbott,L,CHC,2025-05-24,2,83,23,2
 Andrew Abbott,L,CLE,2025-05-18,3,96,22,5
@@ -1358,6 +1374,7 @@ Ben Lively,R,KC,2025-04-13,2,93,24,5
 Ben Lively,R,CHW,2025-04-08,3,80,17,4
 Ben Lively,R,SD,2025-04-02,2,86,21,4
 Ben Lively,R,KC,2025-03-27,0,67,19,3
+Emerson Hancock,R,BAL,2025-06-05,2,89,20,6
 Emerson Hancock,R,WSH,2025-05-30,3,65,19,4
 Emerson Hancock,R,HOU,2025-05-24,0,92,28,3
 Emerson Hancock,R,SD,2025-05-18,1,88,21,3
@@ -1426,6 +1443,7 @@ Taijuan Walker,R,MIA,2025-04-19,3,56,17,2
 Taijuan Walker,R,SF,2025-04-14,1,99,22,5
 Taijuan Walker,R,ATL,2025-04-09,3,94,22,5
 Taijuan Walker,R,COL,2025-04-03,1,74,22,4
+Clarke Schmidt,R,CLE,2025-06-04,1,91,25,8
 Clarke Schmidt,R,LAA,2025-05-29,1,99,22,4
 Clarke Schmidt,R,COL,2025-05-24,2,97,21,8
 Clarke Schmidt,R,NYM,2025-05-17,5,88,25,5
@@ -1516,6 +1534,7 @@ Hunter Dobbins,R,KC,2025-05-09,0,81,22,6
 Hunter Dobbins,R,MIN,2025-05-03,2,92,27,2
 Hunter Dobbins,R,CHW,2025-04-18,0,79,23,6
 Hunter Dobbins,R,STL,2025-04-06,2,93,24,5
+Ryan Gusto,R,PIT,2025-06-04,2,83,23,3
 Ryan Gusto,R,TB,2025-05-30,3,83,18,4
 Ryan Gusto,R,SEA,2025-05-24,3,79,19,6
 Ryan Gusto,R,TEX,2025-05-17,2,30,6,1
@@ -1555,6 +1574,7 @@ Spencer Strider,R,ARI,2025-06-03,2,85,22,4
 Spencer Strider,R,PHI,2025-05-27,4,90,20,7
 Spencer Strider,R,WSH,2025-05-20,1,75,19,3
 Spencer Strider,R,TOR,2025-04-16,1,97,21,5
+Lucas Giolito,R,LAA,2025-06-04,1,43,14,1
 Lucas Giolito,R,ATL,2025-05-30,2,85,21,3
 Lucas Giolito,R,BAL,2025-05-24,2,99,25,6
 Lucas Giolito,R,ATL,2025-05-17,2,87,22,3
@@ -1592,9 +1612,11 @@ Aaron Civale,R,CIN,2025-06-02,1,86,23,5
 Aaron Civale,R,BOS,2025-05-27,1,79,18,4
 Aaron Civale,R,PIT,2025-05-22,2,73,18,3
 Aaron Civale,R,NYY,2025-03-30,1,68,14,2
+Zebby Matthews,R,ATH,2025-06-05,3,77,21,4
 Zebby Matthews,R,SEA,2025-05-31,1,94,27,7
 Zebby Matthews,R,KC,2025-05-24,1,81,18,9
 Zebby Matthews,R,MIL,2025-05-18,3,71,17,5
+Mike Burrows,R,HOU,2025-06-04,0,70,20,6
 Mike Burrows,R,ARI,2025-05-28,2,78,19,2
 Mike Burrows,R,MIL,2025-05-22,2,77,20,3
 Hayden Birdsong,R,MIA,2025-06-01,0,88,21,5
@@ -1653,9 +1675,18 @@ Noah Cameron,L,CIN,2025-05-28,2,92,27,2
 Noah Cameron,L,MIN,2025-05-24,1,82,25,8
 Noah Cameron,L,STL,2025-05-17,0,81,21,3
 Noah Cameron,L,TB,2025-04-30,5,79,25,3
+Tony Gonsolin,R,NYM,2025-06-05,3,90,22,6
 Tony Gonsolin,R,NYY,2025-05-31,3,91,27,4
 Tony Gonsolin,R,NYM,2025-05-24,3,88,24,4
 Tony Gonsolin,R,LAA,2025-05-18,5,97,21,3
 Tony Gonsolin,R,ARI,2025-05-11,2,84,19,4
 Tony Gonsolin,R,MIA,2025-05-06,2,82,20,8
 Tony Gonsolin,R,MIA,2025-04-30,0,77,24,9
+Landon Knack,R,NYY,2025-05-31,3,102,23,6
+Landon Knack,R,NYM,2025-05-25,0,91,24,5
+Landon Knack,R,ARI,2025-05-20,2,106,23,3
+Landon Knack,R,ATH,2025-05-14,1,94,21,8
+Landon Knack,R,MIA,2025-05-07,1,75,20,5
+Landon Knack,R,COL,2025-04-16,2,65,19,2
+Landon Knack,R,WSH,2025-04-09,4,69,15,2
+Landon Knack,R,CHC,2025-03-19,0,30,7,3
