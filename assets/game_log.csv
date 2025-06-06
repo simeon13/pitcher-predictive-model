@@ -11,6 +11,7 @@ Yoshinobu Yamamoto,R,CHC,2025-04-12,1,103,20,9
 Yoshinobu Yamamoto,R,PHI,2025-04-04,3,97,22,5
 Yoshinobu Yamamoto,R,DET,2025-03-29,2,91,22,10
 Yoshinobu Yamamoto,R,CHC,2025-03-18,1,72,19,4
+Framber Valdez,L,PIT,2025-06-05,3,99,28,11
 Framber Valdez,L,TB,2025-05-31,1,83,29,9
 Framber Valdez,L,SEA,2025-05-24,4,101,25,5
 Framber Valdez,L,TEX,2025-05-18,1,98,28,8
@@ -113,6 +114,7 @@ Jose Berrios,R,BAL,2025-04-13,1,86,23,6
 Jose Berrios,R,BOS,2025-04-07,3,88,26,2
 Jose Berrios,R,WSH,2025-04-01,3,95,22,8
 Jose Berrios,R,BAL,2025-03-27,2,90,24,5
+Max Fried,L,CLE,2025-06-05,2,103,20,7
 Max Fried,L,LAD,2025-05-31,0,75,22,3
 Max Fried,L,COL,2025-05-24,1,83,26,7
 Max Fried,L,NYM,2025-05-18,2,102,23,8
@@ -125,6 +127,7 @@ Max Fried,L,KC,2025-04-15,2,94,27,7
 Max Fried,L,DET,2025-04-09,0,97,26,11
 Max Fried,L,PIT,2025-04-04,1,98,23,6
 Max Fried,L,MIL,2025-03-29,2,94,29,4
+Ryan Pepiot,R,TEX,2025-06-05,2,96,21,8
 Ryan Pepiot,R,HOU,2025-05-31,1,93,22,4
 Ryan Pepiot,R,TOR,2025-05-25,1,91,24,5
 Ryan Pepiot,R,HOU,2025-05-19,1,87,24,2
@@ -199,6 +202,7 @@ Kris Bubic,L,NYY,2025-04-16,4,94,27,6
 Kris Bubic,L,CLE,2025-04-11,2,92,27,5
 Kris Bubic,L,BAL,2025-04-06,1,99,25,8
 Kris Bubic,L,MIL,2025-03-31,2,95,24,8
+Jake Irvin,R,CHC,2025-06-05,2,94,26,3
 Jake Irvin,R,ARI,2025-05-31,1,93,24,0
 Jake Irvin,R,SF,2025-05-24,2,96,29,7
 Jake Irvin,R,BAL,2025-05-17,1,98,26,6
@@ -248,6 +252,7 @@ Hunter Brown,R,STL,2025-04-15,2,97,22,4
 Hunter Brown,R,SEA,2025-04-09,0,98,20,3
 Hunter Brown,R,MIN,2025-04-03,0,91,22,8
 Hunter Brown,R,NYM,2025-03-29,3,96,23,7
+Jesus Luzardo,L,TOR,2025-06-05,2,61,18,2
 Jesus Luzardo,L,MIL,2025-05-31,3,76,23,4
 Jesus Luzardo,L,ATH,2025-05-25,1,105,31,10
 Jesus Luzardo,L,COL,2025-05-21,3,105,23,10
@@ -273,6 +278,7 @@ Zach Gallen,R,MIL,2025-04-13,3,89,26,5
 Zach Gallen,R,BAL,2025-04-08,4,96,24,2
 Zach Gallen,R,NYY,2025-04-02,0,101,24,13
 Zach Gallen,R,CHC,2025-03-28,4,83,21,4
+Chris Bassitt,R,PHI,2025-06-05,2,99,28,6
 Chris Bassitt,R,ATH,2025-05-30,2,82,23,6
 Chris Bassitt,R,TB,2025-05-25,2,82,22,2
 Chris Bassitt,R,SD,2025-05-20,1,100,23,6
@@ -360,6 +366,7 @@ Yusei Kikuchi,L,TEX,2025-04-16,2,79,22,6
 Yusei Kikuchi,L,TB,2025-04-09,3,104,25,5
 Yusei Kikuchi,L,STL,2025-04-02,5,104,26,6
 Yusei Kikuchi,L,CHW,2025-03-27,0,87,23,5
+Grant Holmes,R,ARI,2025-06-05,2,64,15,4
 Grant Holmes,R,BOS,2025-05-30,1,97,24,9
 Grant Holmes,R,SD,2025-05-24,1,94,29,6
 Grant Holmes,R,BOS,2025-05-17,4,99,26,5
@@ -372,6 +379,7 @@ Grant Holmes,R,TOR,2025-04-14,2,94,26,4
 Grant Holmes,R,PHI,2025-04-09,4,104,19,6
 Grant Holmes,R,LAD,2025-04-01,4,89,19,3
 Grant Holmes,R,SD,2025-03-27,0,9,3,2
+Matthew Liberatore,L,KC,2025-06-05,1,71,21,2
 Matthew Liberatore,L,TEX,2025-05-31,1,91,23,5
 Matthew Liberatore,L,ARI,2025-05-24,0,88,27,4
 Matthew Liberatore,L,KC,2025-05-18,1,92,26,5
@@ -396,6 +404,7 @@ Merrill Kelly,R,MIA,2025-04-15,1,88,22,9
 Merrill Kelly,R,BAL,2025-04-09,2,89,24,4
 Merrill Kelly,R,NYY,2025-04-03,3,80,23,2
 Merrill Kelly,R,CHC,2025-03-29,4,85,23,1
+Mitch Keller,R,HOU,2025-06-05,1,89,28,5
 Mitch Keller,R,SD,2025-05-31,2,78,23,1
 Mitch Keller,R,MIL,2025-05-24,0,92,23,7
 Mitch Keller,R,CIN,2025-05-19,1,91,24,5
@@ -420,6 +429,7 @@ Tomoyuki Sugano,R,CLE,2025-04-17,0,87,25,3
 Tomoyuki Sugano,R,TOR,2025-04-12,2,73,21,0
 Tomoyuki Sugano,R,KC,2025-04-05,1,89,23,4
 Tomoyuki Sugano,R,TOR,2025-03-30,2,73,18,1
+David Peterson,L,LAD,2025-06-05,2,91,28,6
 David Peterson,L,COL,2025-05-30,1,94,24,5
 David Peterson,L,LAD,2025-05-24,2,99,28,7
 David Peterson,L,NYY,2025-05-18,4,101,26,4
@@ -455,6 +465,7 @@ Taj Bradley,R,NYY,2025-04-17,4,90,27,3
 Taj Bradley,R,ATL,2025-04-11,2,93,24,7
 Taj Bradley,R,TEX,2025-04-05,4,82,21,7
 Taj Bradley,R,COL,2025-03-30,0,78,23,7
+Robbie Ray,L,SD,2025-06-05,1,101,25,9
 Robbie Ray,L,MIA,2025-05-31,3,98,25,9
 Robbie Ray,L,WSH,2025-05-25,0,90,21,7
 Robbie Ray,L,KC,2025-05-20,1,94,26,7
@@ -575,6 +586,7 @@ Nick Pivetta,R,CHC,2025-04-16,1,91,21,6
 Nick Pivetta,R,COL,2025-04-12,1,88,25,10
 Nick Pivetta,R,CHC,2025-04-05,3,76,19,4
 Nick Pivetta,R,ATL,2025-03-30,0,82,21,4
+Brandon Pfaadt,R,ATL,2025-06-05,2,74,17,2
 Brandon Pfaadt,R,WSH,2025-06-01,0,31,8,0
 Brandon Pfaadt,R,STL,2025-05-25,1,91,23,5
 Brandon Pfaadt,R,LAD,2025-05-20,1,95,22,0
@@ -767,6 +779,7 @@ Mitchell Parker,L,PIT,2025-04-16,1,89,24,6
 Mitchell Parker,L,MIA,2025-04-11,2,96,27,3
 Mitchell Parker,L,ARI,2025-04-05,4,82,23,2
 Mitchell Parker,L,PHI,2025-03-30,2,93,27,5
+Sean Burke,R,DET,2025-06-05,1,96,27,5
 Sean Burke,R,BAL,2025-05-30,1,90,23,6
 Sean Burke,R,TEX,2025-05-23,3,89,23,6
 Sean Burke,R,CHC,2025-05-17,5,97,27,4
@@ -850,6 +863,7 @@ Luis Ortiz,R,PIT,2025-04-18,3,92,22,8
 Luis Ortiz,R,KC,2025-04-12,2,100,20,10
 Luis Ortiz,R,LAA,2025-04-06,0,81,25,3
 Luis Ortiz,R,SD,2025-04-01,4,90,26,2
+Dylan Cease,R,SF,2025-06-05,3,92,23,7
 Dylan Cease,R,PIT,2025-06-01,1,95,22,6
 Dylan Cease,R,ATL,2025-05-25,1,88,20,8
 Dylan Cease,R,TOR,2025-05-20,1,100,24,6
@@ -1014,6 +1028,7 @@ Kodai Senga,R,STL,2025-04-19,2,89,22,4
 Kodai Senga,R,ATH,2025-04-13,2,79,26,4
 Kodai Senga,R,MIA,2025-04-07,2,77,19,4
 Kodai Senga,R,MIA,2025-04-01,1,77,20,8
+Miles Mikolas,R,KC,2025-06-05,1,92,26,2
 Miles Mikolas,R,BAL,2025-05-28,0,72,21,3
 Miles Mikolas,R,ARI,2025-05-24,1,81,23,4
 Miles Mikolas,R,KC,2025-05-17,2,76,22,4
@@ -1143,6 +1158,7 @@ Gavin Williams,R,BAL,2025-04-16,4,102,27,4
 Gavin Williams,R,CHW,2025-04-10,2,94,19,7
 Gavin Williams,R,LAA,2025-04-05,3,75,18,5
 Gavin Williams,R,KC,2025-03-29,1,74,19,2
+Colin Rea,R,WSH,2025-06-05,1,80,22,0
 Colin Rea,R,CIN,2025-05-30,2,90,27,3
 Colin Rea,R,CIN,2025-05-24,3,108,25,8
 Colin Rea,R,CHW,2025-05-18,2,93,20,3
@@ -1177,6 +1193,7 @@ Sandy Alcantara,R,PHI,2025-04-18,2,61,12,1
 Sandy Alcantara,R,WSH,2025-04-12,4,87,25,1
 Sandy Alcantara,R,NYM,2025-04-01,0,70,18,4
 Sandy Alcantara,R,PIT,2025-03-27,4,91,20,7
+Casey Mize,R,CHW,2025-06-05,4,93,24,3
 Casey Mize,R,KC,2025-05-31,2,79,20,4
 Casey Mize,R,CLE,2025-05-24,1,77,21,6
 Casey Mize,R,COL,2025-05-08,0,86,21,8
@@ -1186,6 +1203,7 @@ Casey Mize,R,KC,2025-04-19,1,88,27,3
 Casey Mize,R,MIN,2025-04-13,0,74,24,3
 Casey Mize,R,NYY,2025-04-07,3,88,24,6
 Casey Mize,R,SEA,2025-04-02,3,82,20,6
+Bryan Woo,R,BAL,2025-06-05,2,88,24,6
 Bryan Woo,R,MIN,2025-05-31,1,95,27,3
 Bryan Woo,R,HOU,2025-05-24,0,93,27,5
 Bryan Woo,R,SD,2025-05-18,0,87,25,5
@@ -1338,6 +1356,7 @@ Charlie Morton,R,CLE,2025-04-15,3,88,24,2
 Charlie Morton,R,ARI,2025-04-09,5,87,25,4
 Charlie Morton,R,BOS,2025-04-03,2,98,23,10
 Charlie Morton,R,TOR,2025-03-28,1,80,18,3
+Jack Leiter,R,TB,2025-06-05,1,80,19,6
 Jack Leiter,R,STL,2025-05-31,2,96,22,6
 Jack Leiter,R,CHW,2025-05-24,5,94,26,3
 Jack Leiter,R,HOU,2025-05-18,2,87,25,4
@@ -1347,6 +1366,7 @@ Jack Leiter,R,SEA,2025-05-03,2,89,23,2
 Jack Leiter,R,SF,2025-04-27,4,76,16,3
 Jack Leiter,R,CIN,2025-04-02,0,70,16,6
 Jack Leiter,R,BOS,2025-03-29,1,82,20,4
+Cole Ragans,L,STL,2025-06-05,3,78,18,4
 Cole Ragans,L,STL,2025-05-16,0,83,20,7
 Cole Ragans,L,BOS,2025-05-10,2,95,23,8
 Cole Ragans,L,CHW,2025-05-05,2,94,20,11
@@ -1392,6 +1412,7 @@ Shota Imanaga,L,TEX,2025-04-09,1,76,23,4
 Shota Imanaga,L,SD,2025-04-04,0,91,26,4
 Shota Imanaga,L,ARI,2025-03-30,2,91,26,4
 Shota Imanaga,L,LAD,2025-03-18,4,69,16,2
+Sean Newcomb,L,MIN,2025-06-05,2,45,9,1
 Sean Newcomb,L,MIN,2025-06-03,1,26,6,1
 Sean Newcomb,L,TOR,2025-05-29,1,44,14,2
 Sean Newcomb,L,BAL,2025-05-24,1,28,6,0
@@ -1433,6 +1454,7 @@ Tanner Houck,R,TB,2025-04-14,2,61,20,1
 Tanner Houck,R,TOR,2025-04-09,2,90,24,2
 Tanner Houck,R,BAL,2025-04-03,2,82,19,6
 Tanner Houck,R,TEX,2025-03-29,3,89,24,2
+Taijuan Walker,R,TOR,2025-06-05,0,15,3,1
 Taijuan Walker,R,MIL,2025-05-30,1,89,20,6
 Taijuan Walker,R,COL,2025-05-22,2,68,23,2
 Taijuan Walker,R,STL,2025-05-14,1,59,14,2
@@ -1471,6 +1493,7 @@ Walker Buehler,R,TB,2025-04-15,3,89,21,3
 Walker Buehler,R,TOR,2025-04-10,1,89,24,7
 Walker Buehler,R,STL,2025-04-04,1,83,22,4
 Walker Buehler,R,TEX,2025-03-29,0,80,21,3
+Zach Eflin,R,SEA,2025-06-05,0,88,26,7
 Zach Eflin,R,CHW,2025-05-30,1,99,24,6
 Zach Eflin,R,BOS,2025-05-24,2,83,22,1
 Zach Eflin,R,WSH,2025-05-18,0,93,26,4
@@ -1586,6 +1609,7 @@ Cade Horton,R,COL,2025-05-28,1,83,23,6
 Cade Horton,R,MIA,2025-05-21,3,92,24,3
 Cade Horton,R,CHW,2025-05-16,0,79,21,2
 Cade Horton,R,NYM,2025-05-10,0,77,18,5
+Slade Cecconi,R,NYY,2025-06-05,2,73,22,3
 Slade Cecconi,R,LAA,2025-05-31,3,95,22,3
 Slade Cecconi,R,DET,2025-05-23,2,84,25,6
 Slade Cecconi,R,CIN,2025-05-17,0,77,20,8
@@ -1671,6 +1695,7 @@ Clayton Kershaw,L,NYM,2025-06-04,3,92,23,2
 Clayton Kershaw,L,CLE,2025-05-28,2,74,21,3
 Clayton Kershaw,L,NYM,2025-05-23,1,26,6,1
 Clayton Kershaw,L,LAA,2025-05-18,3,83,20,2
+Noah Cameron,L,STL,2025-06-05,2,82,21,3
 Noah Cameron,L,CIN,2025-05-28,2,92,27,2
 Noah Cameron,L,MIN,2025-05-24,1,82,25,8
 Noah Cameron,L,STL,2025-05-17,0,81,21,3
@@ -1682,6 +1707,7 @@ Tony Gonsolin,R,LAA,2025-05-18,5,97,21,3
 Tony Gonsolin,R,ARI,2025-05-11,2,84,19,4
 Tony Gonsolin,R,MIA,2025-05-06,2,82,20,8
 Tony Gonsolin,R,MIA,2025-04-30,0,77,24,9
+Landon Knack,R,NYM,2025-06-05,5,86,20,1
 Landon Knack,R,NYY,2025-05-31,3,102,23,6
 Landon Knack,R,NYM,2025-05-25,0,91,24,5
 Landon Knack,R,ARI,2025-05-20,2,106,23,3
@@ -1690,3 +1716,7 @@ Landon Knack,R,MIA,2025-05-07,1,75,20,5
 Landon Knack,R,COL,2025-04-16,2,65,19,2
 Landon Knack,R,WSH,2025-04-09,4,69,15,2
 Landon Knack,R,CHC,2025-03-19,0,30,7,3
+Colton Gordon,L,TB,2025-05-31,1,75,21,6
+Colton Gordon,L,SEA,2025-05-25,0,84,23,4
+Colton Gordon,L,TB,2025-05-19,0,83,21,7
+Colton Gordon,L,KC,2025-05-15,2,85,22,3
